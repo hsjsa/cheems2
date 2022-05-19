@@ -10,7 +10,7 @@ psutil
 Pyrogram
 python-dotenv
 python-magic
-python-telegram-cheems
+python-telegram-bot
 requests
 telegraph
 tenacity
